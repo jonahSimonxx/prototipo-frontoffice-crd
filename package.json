@@ -1,0 +1,23 @@
+{
+  "name": "prototipo-frontoffice-crd",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototipo frontoffice (Next.js) del sistema CRD de farmacovigilancia: login por roles, rutas protegidas (RBAC) y visualización del análisis estadístico. Generado con IA.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.2.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "recharts": "2.15.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}
